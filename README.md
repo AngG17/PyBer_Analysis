@@ -25,5 +25,7 @@ Key findings of Total Fare by City Type by week:
 ## Summary
 
 My recommendation would be to increase the number of drivers in rural cities.  An assumption can be made that the reason that the fare is higher in rural cities is that the length of the ride is longer.  This limits the number of rides an individual driver can provide on a given day.  
+
 As there are less rides in rural cities, look at destinations for those rides.  If the ride goes to a suburban or urban city, could the driver accept some rides in the destination city before heading back to the rural city?  This would give that driver more rides and there would be less wasted time with an empty vehicle all the way back home.
+
 Gather more data to see if you can determine why totals fares dropped at the end of March.  Once that is determined, an action plan can be put in place to increase ridership next year over the same time period.
